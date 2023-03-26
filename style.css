@@ -38,14 +38,14 @@ nav ul li a{
     margin:30px;
     font-family:myriad pro regular;
     color:#505050;
-    font-size: 15px;
+    font-size: medium;
     font-weight:700;
 }
  
 .logo{
     font-family:RoadTest;
     color:#000000;
-    font-size: 22px;
+    font-size: medium;
     font-weight: bold;
 }
  
@@ -58,7 +58,7 @@ nav ul li a{
     font-family: calibri;
     font-weight: bold;
     color: #6d6d6d;
-    font-size: 22px;
+    font-size: medium;
 }
  
 .text-container p:nth-child(2){
@@ -79,7 +79,7 @@ nav ul li a{
 .text-container p:nth-child(4){
     font-family: calibri;
     color: #403e3e;
-    font-size: 17px;
+    font-size: medium;
     margin-top: 10px;
     line-height: 30px;
 }
@@ -102,7 +102,7 @@ nav ul li a{
     border-radius: 10px;
     font-family: calibri;
     font-weight: bold;
-    font-size: 14px;
+    font-size: medium;
     outline: none;
     margin: 0px 10px;
 }
@@ -352,7 +352,7 @@ footer{
   
 .copyright{
     color:#565555;
-    font-size: 15px;
+    font-size: medium;
     position: absolute;
     left:50%;
     bottom:10px;
